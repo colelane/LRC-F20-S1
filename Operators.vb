@@ -3,7 +3,7 @@
     'RCET0265
     'Fall2020
     'Operators
-    'repo
+    'https://github.com/colelane/LRC-F20-S1.git
     Sub Main()
         'Let's do math!!
         Console.WriteLine(2 + 2)
