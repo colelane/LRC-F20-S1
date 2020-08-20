@@ -6,17 +6,28 @@
     'https://github.com/colelane/LRC-F20-S1.git
     Sub Main()
         'Let's do math!!
-        Console.WriteLine(2 + 2)
+        'Console.WriteLine(2 + 2)
+        'Console.ReadLine()
+        'Console.WriteLine(7 - 1)
+        'Console.ReadLine()
+        'Console.WriteLine(5 * 5)
+        'Console.ReadLine()
+        'Console.WriteLine(7 / 3)
+        'Console.ReadLine()
+        'Console.WriteLine(7 \ 3)
+        'Console.ReadLine()
+        'Console.WriteLine(70 Mod 30)
+        'Console.ReadLine()
+
+        'Concatenate stuff.
+        'Use with caution.
+        Console.WriteLine("2" + "2")
         Console.ReadLine()
-        Console.WriteLine(7 - 1)
+        'Use with caution.
+        Console.WriteLine("2" & "2")
         Console.ReadLine()
-        Console.WriteLine(5 * 5)
-        Console.ReadLine()
-        Console.WriteLine(7 / 3)
-        Console.ReadLine()
-        Console.WriteLine(7 \ 3)
-        Console.ReadLine()
-        Console.WriteLine(70 Mod 30)
+        'Use with caution.
+        Console.WriteLine("hurb" & "," & "bruh")
         Console.ReadLine()
     End Sub
 
