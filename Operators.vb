@@ -21,13 +21,23 @@
 
         'Concatenate stuff.
         'Use with caution.
-        Console.WriteLine("2" + "2")
+        'Console.WriteLine("2" + "2")
+        'Console.ReadLine()
+        ''Use with caution.
+        'Console.WriteLine("2" & "2")
+        'Console.ReadLine()
+        ''Example.
+        'Console.WriteLine("hurb" & "," & "bruh")
+        'Console.ReadLine()
+
+        'Compare Stuff
+        Console.WriteLine(1 > 3)
         Console.ReadLine()
-        'Use with caution.
-        Console.WriteLine("2" & "2")
+        Console.WriteLine(1 < 3)
         Console.ReadLine()
-        'Use with caution.
-        Console.WriteLine("hurb" & "," & "bruh")
+        Console.WriteLine(1 = 3)
+        Console.ReadLine()
+        Console.WriteLine(1 <> 3)
         Console.ReadLine()
     End Sub
 
